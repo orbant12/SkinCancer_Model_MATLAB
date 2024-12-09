@@ -11,8 +11,6 @@ A deep learning project that uses Convolutional Neural Networks (CNN) to classif
 - Use Skin Cancer Detection with User Interface: run `detection_program.m`
 - Other Functions are helper functions ....
 
-### Training
-
 ```matlab
 % Run the main script
 main
