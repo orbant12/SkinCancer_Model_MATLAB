@@ -4,6 +4,13 @@
 
 A deep learning project that uses Convolutional Neural Networks (CNN) to classify skin images into benign and malignant categories. The model is based on ResNet-18 architecture with transfer learning for improved accuracy in melanoma detection.
 
+## Usage
+
+- Training the model: run `main.m`
+- Evaluating model: run `evaluateModel.m`
+- Use Skin Cancer Detection with User Interface: run `detection_program.m`
+- Other Functions are helper functions ....
+
 ## Project Structure
 
 The project consists of several key MATLAB scripts:
@@ -14,13 +21,6 @@ The project consists of several key MATLAB scripts:
 - `model.m` - ResNet-18 model definition and modification
 - `train_model.m` - Model training implementation
 - `evaluateModel.m` - Model evaluation and testing
-
-## Usage
-
-- Training the model: run `main.m`
-- Evaluating model: run `evaluateModel.m`
-- Use Skin Cancer Detection with User Interface: run `detection_program.m`
-- Other Functions are helper functions ....
 
 ## Features
 
