@@ -4,7 +4,7 @@
 
 A deep learning project that uses Convolutional Neural Networks (CNN) to classify skin images into benign and malignant categories. The model is based on ResNet-18 architecture with transfer learning for improved accuracy in melanoma detection.
 
-- With the trained model AVG accuracy is : ~89%
+### With the trained model AVG accuracy is : ~89%
 
 ## Usage
 
