@@ -19,9 +19,8 @@ The project consists of several key MATLAB scripts:
 
 - Training the model: run `main.m`
 - Evaluating model: run `evaluateModel.m`
-- Use Skin Cancer Detection with User Interface: run `detection_program
--
-  .m`
+- Use Skin Cancer Detection with User Interface: run `detection_program.m`
+- Other Functions are helper functions ....
 
 ## Features
 
