@@ -11,6 +11,19 @@ A deep learning project that uses Convolutional Neural Networks (CNN) to classif
 - Use Skin Cancer Detection with User Interface: run `detection_program.m`
 - Other Functions are helper functions ....
 
+### Training
+
+```matlab
+% Run the main script
+main
+
+% For evaluation
+evaluateModel
+
+% Program with user interface
+detection_program
+```
+
 ## Project Structure
 
 The project consists of several key MATLAB scripts:
@@ -41,22 +54,13 @@ The project consists of several key MATLAB scripts:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/[username]/skin-cancer-detection.git
-cd skin-cancer-detection
+git clone https://github.com/orbant12/SkinCancer-Model_MATLAB.git
 ```
 
 1. Ensure all required MATLAB toolboxes are installed
 2. Download the pre-trained ResNet-18 model through MATLAB's Deep Learning Toolbox
 
-## Usage
 
-```matlab
-% Run the main script
-main
-
-% For evaluation
-evaluateModel
-```
 
 ## Model Architecture
 
