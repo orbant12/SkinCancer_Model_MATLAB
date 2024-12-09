@@ -79,7 +79,7 @@ The project uses a modified ResNet-18 architecture:
 
 ## Results
 
-The model achieved an accuracy of 88.26% on the validation dataset.
+The model achieved an accuracy of `88.26%` on the validation dataset.
 
 ## License
 
