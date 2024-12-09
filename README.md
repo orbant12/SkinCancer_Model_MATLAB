@@ -6,6 +6,8 @@ A deep learning project that uses Convolutional Neural Networks (CNN) to classif
 
 ### With the trained model AVG accuracy is : ~89%
 
+## Preview of the Program with User Interface
+
 ## Usage
 
 - Training the model: run `main.m`
